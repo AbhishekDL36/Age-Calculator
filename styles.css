@@ -42,3 +42,12 @@
     color: white;
     cursor: pointer;
 }
+
+#result{
+    font-size: 20px;
+}
+
+#result span{
+    color: #4c00ff;
+    font-weight: bold;
+}
